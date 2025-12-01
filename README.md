@@ -1,6 +1,5 @@
 
 # about-me
-About Me
 
 Hi there! 👋 I'm Sk Redoyan Ahmed, an IT professional and passionate learner currently exploring Java, OOP, automation, and backend development. I love solving problems, building real-world solutions, and continuously leveling up my technical skills.
 

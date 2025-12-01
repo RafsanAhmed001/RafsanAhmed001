@@ -8,9 +8,9 @@ Hi there! 👋 I'm Sk Redoyan Ahmed, an IT professional and passionate learner c
 
 Feel free to reach out — I’m always open to collaboration and learning!
 
-📧 Email: your-email@example.com
+📧 Email: your-skahmed.dev2gmail.com
 
-🔗 LinkedIn: your-linkedin-url
+🔗 LinkedIn: https://www.linkedin.com/in/redoyanahmed/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,16 +1,14 @@
 
 # about-me
-🌟 About Me
+About Me
 
 Hi there! 👋 I'm Sk Redoyan Ahmed, an IT professional and passionate learner currently exploring Java, OOP, automation, and backend development. I love solving problems, building real-world solutions, and continuously leveling up my technical skills.
 
-📫 Let’s Connect
+Let’s Connect
 
-Feel free to reach out — I’m always open to collaboration and learning!
+Email: skahmed.dev@gmail.com
 
-📧 Email: skahmed.dev@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/redoyanahmed/
+LinkedIn: https://www.linkedin.com/in/redoyanahmed/
 
 Java, Python , Node.js (JavaScript runtime) , React , React Native, Microsoft Azure , Google Cloud Platform , Apache Cassandra, MongoDb, MySQL, Oracle Database, PostgreSQL, Redis, Docker, Jenkins, Kubernates, NGINX. Apache Kafka, Spring Framework (Spring Boot), Selenium
 <h3 align="left">Languages and Tools:</h3>
